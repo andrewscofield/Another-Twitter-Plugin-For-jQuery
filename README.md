@@ -4,7 +4,7 @@ Another Twitter Plugin For jQuery
 Let me know what you think and suggestions and ideas!
 
 
-EXAMPLE USE
+Example Use
 =========================
 
 ```
